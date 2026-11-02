@@ -1,0 +1,6 @@
+{
+  "name": "AhorraAI — Hardware NFC & QR Dinámico",
+  "description": "Plataforma de hardware inteligente NFC y QR para negocios, motor de redirección dinámica a micro-páginas personalizadas y esquema SQL completo para Supabase.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
